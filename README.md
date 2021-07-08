@@ -1,1 +1,2 @@
 # Battery-and-charging-circuit
+This circuit will be used as a charging station for the battery. We want our robot to work for 24 hours, resulting in a total consumption of 63.5Ah. Therefore, we will use lead-acid batteries and we will need nine batteries of 12V-7Ah and one battery of 12V-1.2Ah. We will connect these batteries in parallel. This is because, connecting the batteries in parallel will sum up amp hours of each battery, allowing for longer use. This will result in a total of 64.2Ah, which will cost 478.79 SAR.
